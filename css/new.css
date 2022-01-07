@@ -15,16 +15,16 @@
 
 @media (prefers-color-scheme: dark) {
 	:root {
-		--nc-tx-1: #ffffff;
-		--nc-tx-2: #eeeeee;
-		--nc-bg-1: #000000;
-		--nc-bg-2: #111111;
+		--nc-tx-1: #E4E4E4;
+		--nc-tx-2: #E4E4E4;
+		--nc-bg-1: #2E3440;
+		--nc-bg-2: #23252E;
 		--nc-bg-3: #222222;
-		--nc-lk-1: #3291FF;
-		--nc-lk-2: #0070F3;
-		--nc-lk-tx: #FFFFFF;
-		--nc-ac-1: #7928CA;
-		--nc-ac-tx: #FFFFFF;
+		--nc-lk-1: #88C5E3;
+		--nc-lk-2: #9FD9E3;
+		--nc-lk-tx: #E4E4E4;
+		--nc-ac-1: #88C5E3;
+		--nc-ac-tx: #1C1C1C;
 	}
 }
 
