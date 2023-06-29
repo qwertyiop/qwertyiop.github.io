@@ -4,7 +4,7 @@ body {
     font-family: sans-serif;
     width: 100vw;
     min-height: 100vh;
-    box-sizing: content-box;
+    box-sizing: border-box;
     padding-top: 50px;
     overflow-x: hidden;
 }
